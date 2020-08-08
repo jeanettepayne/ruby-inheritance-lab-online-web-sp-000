@@ -27,4 +27,4 @@ jim.last_name = "Porter"
 more_knowledge = avi.teach 
 steve.learn(more_knowledge)
 
-puts "Steve just learned some more important knowledge: '#{steve.knowledge.all}' from Avi"
+puts "Steve just learned some more important knowledge: '#{steve.knowledge.last}' from Avi"
